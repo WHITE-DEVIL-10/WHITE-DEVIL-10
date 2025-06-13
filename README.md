@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @WHITE-DEVIL-10
-- 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning class 9th.
--🤔please anyone can suggest me a free ethical hacking course
+- 👋 Hi, I’m @UMESH_PATRA
+- 👀 I’m interested in cyber security and llm also in Data science.
+- 🌱 I’m currently learning class 12th.
+-🤔please anyone can help me to build my portfolio 
 
 <!---
 WHITE-DEVIL-10/WHITE-DEVIL-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
